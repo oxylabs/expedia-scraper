@@ -58,6 +58,6 @@ Code samples for other programming languages are [here](https://github.com/oxyla
 }
 ```
 
-With Oxylabs' Wikipedia Scraper, you can entrust us with infrastructure management and web unblocking, allowing you to concentrate on the pivotal aspects – data and its analysis.
+With Oxylabs' Expedia Scraper, you can entrust us with infrastructure management and web unblocking, allowing you to concentrate on the pivotal aspects – data and its analysis.
 
 If you have questions, please contact us at hello@oxylabs.io or via live chat on our website.
