@@ -23,7 +23,7 @@ from pprint import pprint
 # Structure payload.
 payload = {
    'source': 'universal',
-   'url': 'https://www.expedia.de/Hotel-Search?adults=2&d1=2024-07-04&d2=2024-07-06&destination=Frankfurt%2C%20Deutschland%20%28FRA-Frankfurt%20Intl.%29&endDate=2024-07-06&flexibility=7_DAY&latLong=50.050978%2C8.571705&regionId=4280902&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2024-07-04&theme=&useRewards=false&userIntent=',
+   'url': 'https://www.expedia.de/Hotel-Search?adults=2&d1=2025-07-04&d2=2025-07-06&destination=Frankfurt%2C%20Deutschland%20%28FRA-Frankfurt%20Intl.%29&endDate=2025-07-06&flexibility=7_DAY&latLong=50.050978%2C8.571705&regionId=4280902&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2025-07-04&theme=&useRewards=false&userIntent=',
    'geo_location': 'Germany'
 }
 
@@ -52,7 +52,7 @@ Code samples for other programming languages are [here](https://github.com/oxyla
       "created_at": "2023-06-28 07:52:07",
       "updated_at": "2023-06-28 07:52:11",
       "page": 1,
-      "url": "https://www.expedia.de/Hotel-Search?adults=2&d1=2024-07-04&d2=2024-07-06&destination=Frankfurt%2C%20Deutschland%20%28FRA-Frankfurt%20Intl.%29&endDate=2024-07-06&flexibility=7_DAY&latLong=50.050978%2C8.571705&regionId=4280902&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2024-07-04&theme=&useRewards=false&userIntent=",
+      "url": "https://www.expedia.de/Hotel-Search?adults=2&d1=2025-07-04&d2=2025-07-06&destination=Frankfurt%2C%20Deutschland%20%28FRA-Frankfurt%20Intl.%29&endDate=2025-07-06&flexibility=7_DAY&latLong=50.050978%2C8.571705&regionId=4280902&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2025-07-04&theme=&useRewards=false&userIntent=",
       "job_id": "7079728156646597633",
       "status_code": 200
     }
