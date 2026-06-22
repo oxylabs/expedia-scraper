@@ -40,7 +40,7 @@ response = requests.request(
 pprint(response.json())
 ```
 
-Code samples for other programming languages are [here](https://github.com/oxylabs/expedia-scraper/tree/main/code%20samples), and Oxylabs documentation can be found [here](https://developers.oxylabs.io/scraper-apis/web-scraper-api).
+Code samples for other programming languages are [here](https://github.com/oxylabs/expedia-scraper/tree/main/code%20samples), and Oxylabs documentation can be found [here](https://developers.oxylabs.io/products/web-scraper-api).
 
 #### Output example
 
